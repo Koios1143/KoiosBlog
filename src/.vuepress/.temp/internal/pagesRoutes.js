@@ -1,0 +1,17 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"y":"h","t":"Blog Home","i":"home"},["/README.md"]],
+  ["v-184f4da6","/intro.html",{"d":1577836800000,"l":"January 1, 2020","e":"<h1> About Me</h1>\n<p>本名林禾堃，一個喜愛資訊領域的人。目前就讀於清華大學資訊工程學系，過去曾擔任臺南一中資訊社社長，也是 SCIST 的共同創辦人之一。</p>\n<p>高中接觸了演算法、資訊安全、網路管理等領域，目前正在朝向 Deep Learning 領域發展，關注的主題包含 Computer Vision、Reinforcement Learning 以及 Large Language Model。</p>\n<p>希望透過這個 blog 紀錄學習的點滴，也歡迎一起來討論 ML 領域的各種知識！</p>\n<h2> Skills</h2>\n<ul>\n<li>\n<p>Programming Languagues</p>\n<p>C/C++, Python, JavaScripts</p>\n</li>\n<li>\n<p>Frameworks</p>\n<p>React, Hexo, LINE BOT, PyTorch</p>\n</li>\n<li>\n<p>Machine Learning</p>\n<p>Computer Vision, Reinforcement Learning</p>\n</li>\n<li>\n<p>Miscellaneous</p>\n<p>UNIX Programming, Cryptography, Reverse engineering, Git, Markdown, Vim</p>\n</li>\n<li>\n<p>Languages</p>\n<p>Mandarin (Native), English (TOEFL 81), Japanese (JLPT N2)</p>\n</li>\n</ul>","y":"a","t":"About Me","i":"circle-info"},[":md"]],
+  ["v-c0336012","/posts/DACS.html",{"y":"a","t":"DACS: Domain Adaptation via Cross-domain Mixed Sampling"},[":md"]],
+  ["v-3706649a","/404.html",{"y":"p","t":""},[]],
+  ["v-e1e3da16","/posts/",{"y":"p","t":"Posts"},[]],
+  ["v-5bc93818","/category/",{"y":"p","t":"Category","I":false},[]],
+  ["v-744d024e","/tag/",{"y":"p","t":"Tag","I":false},[]],
+  ["v-e52c881c","/article/",{"y":"p","t":"Articles","I":false},[]],
+  ["v-154dc4c4","/star/",{"y":"p","t":"Star","I":false},[]],
+  ["v-01560935","/timeline/",{"y":"p","t":"Timeline","I":false},[]],
+  ["v-58706565","/category/note/",{"y":"p","t":"Note Category","I":false},[]],
+  ["v-1724726c","/tag/paper-read/",{"y":"p","t":"Tag: Paper Read","I":false},[]],
+  ["v-65da17ce","/tag/domain-adaption/",{"y":"p","t":"Tag: Domain Adaption","I":false},[]],
+  ["v-cc78423a","/tag/computer-vision/",{"y":"p","t":"Tag: Computer Vision","I":false},[]],
+  ["v-2958c584","/tag/wacv/",{"y":"p","t":"Tag: WACV","I":false},[]],
+]
