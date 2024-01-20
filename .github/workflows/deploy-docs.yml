@@ -5,7 +5,7 @@ on:
   push:
     branches:
       # make sure this is the branch you are using
-      - main
+      - source
 
 permissions:
   contents: write
@@ -48,3 +48,5 @@ jobs:
           # This is the branch where the docs are deployed to
           branch: gh-pages
           folder: src/.vuepress/dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
