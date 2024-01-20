@@ -26,26 +26,18 @@ After the base of the blog been developed well, I'll start putting some articles
 - Paper Read Note
 - About Japan Exchange Plan
 
-## Current items
-
-- Dockerfile
-    Can build a base blog environment, but without some configuration of `vue-markdown-loader`
-- BlogBase.tar
-    A docker image file contain the full base blog environment
-
 ## Environment Details
 
 | Items | version |
 | ----- | ------- |
 | Nodejs | `v20.10.0` |
 | npm | `10.2.3` |
-| vue-markdown-loader | `2.5.0` |
-| vue-loader | `17.4.2` |
-| vue-template-compiler | `2.7.16` |
-
-## Run Instructions
-
-```bash
-docker load --input BlogBase.tar
-docker run -p 8080:8080 -it blog:v1 /bin/bash
-```
+| pnpm | `8.14.1` |
+| @vuepress/client | `2.0.0-rc.0` |
+| katex | `0.16.9` |
+| vue | `3.4.3` |
+| vuepress | `2.0.0-rc.0` |
+| vuepress-plugin-feed2 | `2.0.0-rc.11` |
+| vuepress-plugin-md-enhance | `2.0.0-rc.11` |
+| vuepress-plugin-search-pro | `2.0.0-rc.11` |
+| vuepress-theme-hope | `2.0.0-rc.11` |
