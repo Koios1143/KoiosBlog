@@ -1,1 +1,1 @@
-export const sidebarData = {"/posts/":["Google_Intern_Interview","2024TSMC_CareerHack","DACS"]};
+export const sidebarData = {"/posts/":["2024TSMC_CareerHack","DACS"]};

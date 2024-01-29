@@ -9,8 +9,6 @@ export const pagesComponents = {
   "v-620a6165": defineAsyncComponent(() => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.vue")),
   // path: /posts/DACS.html
   "v-c0336012": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.vue")),
-  // path: /posts/Google_Intern_Interview.html
-  "v-6e6058d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e6058d4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Google_Intern_Interview.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/root/blog_v3/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /posts/
@@ -41,8 +39,4 @@ export const pagesComponents = {
   "v-cc78423a": defineAsyncComponent(() => import(/* webpackChunkName: "v-cc78423a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/computer-vision/index.html.vue")),
   // path: /tag/wacv/
   "v-2958c584": defineAsyncComponent(() => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.vue")),
-  // path: /tag/interview/
-  "v-00be579c": defineAsyncComponent(() => import(/* webpackChunkName: "v-00be579c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/interview/index.html.vue")),
-  // path: /tag/google/
-  "v-0060d308": defineAsyncComponent(() => import(/* webpackChunkName: "v-0060d308" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/google/index.html.vue")),
 }

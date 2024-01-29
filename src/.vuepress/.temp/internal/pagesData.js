@@ -7,8 +7,6 @@ export const pagesData = {
   "v-620a6165": () => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.js").then(({ data }) => data),
   // path: /posts/DACS.html
   "v-c0336012": () => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.js").then(({ data }) => data),
-  // path: /posts/Google_Intern_Interview.html
-  "v-6e6058d4": () => import(/* webpackChunkName: "v-6e6058d4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Google_Intern_Interview.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/root/blog_v3/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /posts/
@@ -39,8 +37,4 @@ export const pagesData = {
   "v-cc78423a": () => import(/* webpackChunkName: "v-cc78423a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/computer-vision/index.html.js").then(({ data }) => data),
   // path: /tag/wacv/
   "v-2958c584": () => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.js").then(({ data }) => data),
-  // path: /tag/interview/
-  "v-00be579c": () => import(/* webpackChunkName: "v-00be579c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/interview/index.html.js").then(({ data }) => data),
-  // path: /tag/google/
-  "v-0060d308": () => import(/* webpackChunkName: "v-0060d308" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/google/index.html.js").then(({ data }) => data),
 }
