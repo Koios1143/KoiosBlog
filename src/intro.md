@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-date: 2020-01-01
+date: 2024-01-01
 # cover: /assets/images/cover3.jpg
 ---
 
@@ -28,27 +28,28 @@ date: 2020-01-01
     UNIX Programming, Cryptography, Reverse engineering, Git, Markdown, Vim
 - Languages
     
-    Mandarin (Native), English (TOEFL 81), Japanese (JLPT N2)
+    Mandarin (Native), English (TOEFL 81), Japanese (JLPT N1)
 
 ## 競賽成績
 
-| 日期 | 競賽名稱 | 成績 |
-| ---- | ------- | ---- |
-| 2022年10月 | 梅竹黑客松 | 分組第三名 |
-| 2022年07月 | YTP Final Project | 專題第三名 |
-| 2020年07月 | 青年黑克松 | 網頁組第3名 |
-| 2020年06月 | AIS3 pre-exam | 第96名 |
-| 2020年06月 | MyFirstCTF | 第22名 |
-| 2020年04月 | Google Code Jam Qualification Round | 第29755名(30/100分) |
-| 2020年03月 | Kick Start Round A 2020 | 第5695名(21/100分) | 
-| 2020年03月 | TOI初選 | 第62名(212/500分) |
-| 2020年02月 | TOI校內賽 | 	第7名(314/600分) |
-| 2020年01月 | TOI海選 | 300/300分 |
-| 2019年12月 | NPSC決賽 | 全國第六名 |
-| 2019年11月 | 金盾獎 | 進入決賽 |
-| 2019年10月 | Kick Start Round G 2019 | 第2427名(10/100分) |
-| 2019年07月 | FML-based Machine Learning Competition for Human | 世界第三名 |
-| 2019年06月 | 第七屆高一生程式設計排名賽 | 128/800 |
+| 日期 | 競賽名稱 | 成績 | 心得 |
+| ---- | ------- | ---- | ---- |
+| 2024年01月 | 2024 TSMC CareerHack | 無 | [心得](https://koios1143.github.io/KoiosBlog/posts/2024TSMC_CareerHack.html) |
+| 2022年10月 | 梅竹黑客松 | 分組第三名 | |
+| 2022年07月 | YTP Final Project | 專題第三名 | |
+| 2020年07月 | 青年黑克松 | 網頁組第3名 | |
+| 2020年06月 | AIS3 pre-exam | 第96名 | |
+| 2020年06月 | MyFirstCTF | 第22名 | |
+| 2020年04月 | Google Code Jam Qualification Round | 第29755名(30/100分) | |
+| 2020年03月 | Kick Start Round A 2020 | 第5695名(21/100分) |  |
+| 2020年03月 | TOI初選 | 第62名(212/500分) | |
+| 2020年02月 | TOI校內賽 | 	第7名(314/600分) | |
+| 2020年01月 | TOI海選 | 300/300分 | |
+| 2019年12月 | NPSC決賽 | 全國第六名 | |
+| 2019年11月 | 金盾獎 | 進入決賽 | |
+| 2019年10月 | Kick Start Round G 2019 | 第2427名(10/100分) | |
+| 2019年07月 | FML-based Machine Learning Competition for Human | 世界第三名 | |
+| 2019年06月 | 第七屆高一生程式設計排名賽 | 128/800 | |
 
 ## 活動參與
 

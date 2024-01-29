@@ -22,7 +22,7 @@
 </li>
 <li>
 <p>Languages</p>
-<p>Mandarin (Native), English (TOEFL 81), Japanese (JLPT N2)</p>
+<p>Mandarin (Native), English (TOEFL 81), Japanese (JLPT N1)</p>
 </li>
 </ul>
 <h2 id="競賽成績" tabindex="-1"><a class="header-anchor" href="#競賽成績" aria-hidden="true">#</a> 競賽成績</h2>
@@ -32,83 +32,105 @@
 <th>日期</th>
 <th>競賽名稱</th>
 <th>成績</th>
+<th>心得</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>2024年01月</td>
+<td>2024 TSMC CareerHack</td>
+<td>無</td>
+<td><a href="https://koios1143.github.io/KoiosBlog/posts/2024TSMC_CareerHack.html" target="_blank" rel="noopener noreferrer">心得<ExternalLinkIcon/></a></td>
+</tr>
+<tr>
 <td>2022年10月</td>
 <td>梅竹黑客松</td>
 <td>分組第三名</td>
+<td></td>
 </tr>
 <tr>
 <td>2022年07月</td>
 <td>YTP Final Project</td>
 <td>專題第三名</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年07月</td>
 <td>青年黑克松</td>
 <td>網頁組第3名</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年06月</td>
 <td>AIS3 pre-exam</td>
 <td>第96名</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年06月</td>
 <td>MyFirstCTF</td>
 <td>第22名</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年04月</td>
 <td>Google Code Jam Qualification Round</td>
 <td>第29755名(30/100分)</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年03月</td>
 <td>Kick Start Round A 2020</td>
 <td>第5695名(21/100分)</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年03月</td>
 <td>TOI初選</td>
 <td>第62名(212/500分)</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年02月</td>
 <td>TOI校內賽</td>
 <td>第7名(314/600分)</td>
+<td></td>
 </tr>
 <tr>
 <td>2020年01月</td>
 <td>TOI海選</td>
 <td>300/300分</td>
+<td></td>
 </tr>
 <tr>
 <td>2019年12月</td>
 <td>NPSC決賽</td>
 <td>全國第六名</td>
+<td></td>
 </tr>
 <tr>
 <td>2019年11月</td>
 <td>金盾獎</td>
 <td>進入決賽</td>
+<td></td>
 </tr>
 <tr>
 <td>2019年10月</td>
 <td>Kick Start Round G 2019</td>
 <td>第2427名(10/100分)</td>
+<td></td>
 </tr>
 <tr>
 <td>2019年07月</td>
 <td>FML-based Machine Learning Competition for Human</td>
 <td>世界第三名</td>
+<td></td>
 </tr>
 <tr>
 <td>2019年06月</td>
 <td>第七屆高一生程式設計排名賽</td>
 <td>128/800</td>
+<td></td>
 </tr>
 </tbody>
 </table>
