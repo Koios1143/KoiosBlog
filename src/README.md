@@ -38,5 +38,5 @@ projects:
   #   desc: Detailed description of this custom item
   #   link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: CC BY-NC-SA 4.0 Licensed | Copyright © 2024-present Koios | Create with vuepress theme hope
 ---

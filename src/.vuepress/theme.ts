@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "CC BY-NC-SA 4.0 Licensed | Copyright © 2024-present Koios | Create with vuepress theme hope",
 
   displayFooter: true,
 
@@ -53,7 +53,7 @@ export default hopeTheme({
   pageInfo: ["Original", "Date", "PageView", "ReadingTime", "Category", "Tag"],
   
   metaLocales: {
-    editLink: "Edit this page on GitHub",
+    editLink: "Edit this page on GitHub"
   },
 
   // enable it to preview all changes in time
