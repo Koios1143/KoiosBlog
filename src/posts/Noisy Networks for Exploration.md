@@ -367,7 +367,7 @@ $$
 
 ### Distributed A3C
 
-由於 A2C 是在 multi-thread 上訓練，因此不太需要考慮上述的 Random Overhead，在這裡採用 **Independent Gaussian noise** 即可。
+由於 A3C 是在 multi-thread 上訓練，因此不太需要考慮上述的 Random Overhead，在這裡採用 **Independent Gaussian noise** 即可。
 
 現在 Network 的部分改用 Noisy Network，也就不需要再使用 Entropy function 了。
 
