@@ -57,7 +57,22 @@ tag:
 
 核心的概念很簡單，過去增加探索的方法大多都是在 action space 上增加 noise，而這裡則選擇在 parameter space 上增加 noise，並且達到了很棒的效果。
 
-簡單來說就是他們試圖在 parameter 上加上 Gaussian Noise。
+:::tip
+
+<center>
+<img src="/NoisyNet/Hunter.png" height=200>
+&nbsp;
+<img src="/NoisyNet/Furiren.png" height=200>
+</center>
+
+$\epsilon$-greedy 就像是獵人裡面的凱特，行動之前需要先看運氣抽接下來使用的武器，即便自己知道當下用哪一個 action 比較好，卻會受到 $\epsilon$ 的限制。
+
+而在 parameter space 加上 noise 就像是可以換個角度去想其他人會怎麼做，試著用那一個人的做法走過一次，得到不同的經驗。
+
+相較之下，action space 加 noise 就比較像是在亂試，反之在 parameter space 上加 noise 就比較有系統性一些。
+:::
+
+具體來說就是他們試圖在 parameter 上加上 Gaussian Noise。
 
 $$
 \tilde{\theta} = \theta + \mathcal{N}(0, \sigma^2I)
