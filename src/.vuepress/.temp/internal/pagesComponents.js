@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-620a6165": defineAsyncComponent(() => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.vue")),
   // path: /posts/DACS.html
   "v-c0336012": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.vue")),
+  // path: /posts/DQN.html
+  "v-32d63a0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-32d63a0d" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DQN.html.vue")),
   // path: /posts/Noisy%20Networks%20for%20Exploration.html
   "v-5b18c8c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b18c8c4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Noisy Networks for Exploration.html.vue")),
   // path: /404.html
@@ -43,6 +45,8 @@ export const pagesComponents = {
   "v-2958c584": defineAsyncComponent(() => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.vue")),
   // path: /tag/reinforcement-learning/
   "v-7f7459b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.vue")),
+  // path: /tag/neurips/
+  "v-468b3b36": defineAsyncComponent(() => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.vue")),
   // path: /tag/iclr/
   "v-28948681": defineAsyncComponent(() => import(/* webpackChunkName: "v-28948681" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/iclr/index.html.vue")),
 }

@@ -7,6 +7,8 @@ export const pagesData = {
   "v-620a6165": () => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.js").then(({ data }) => data),
   // path: /posts/DACS.html
   "v-c0336012": () => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.js").then(({ data }) => data),
+  // path: /posts/DQN.html
+  "v-32d63a0d": () => import(/* webpackChunkName: "v-32d63a0d" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DQN.html.js").then(({ data }) => data),
   // path: /posts/Noisy%20Networks%20for%20Exploration.html
   "v-5b18c8c4": () => import(/* webpackChunkName: "v-5b18c8c4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Noisy Networks for Exploration.html.js").then(({ data }) => data),
   // path: /404.html
@@ -41,6 +43,8 @@ export const pagesData = {
   "v-2958c584": () => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.js").then(({ data }) => data),
   // path: /tag/reinforcement-learning/
   "v-7f7459b2": () => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.js").then(({ data }) => data),
+  // path: /tag/neurips/
+  "v-468b3b36": () => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.js").then(({ data }) => data),
   // path: /tag/iclr/
   "v-28948681": () => import(/* webpackChunkName: "v-28948681" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/iclr/index.html.js").then(({ data }) => data),
 }
