@@ -7,6 +7,8 @@ export const pagesComponents = {
   "v-184f4da6": defineAsyncComponent(() => import(/* webpackChunkName: "v-184f4da6" */"/root/blog_v3/src/.vuepress/.temp/pages/intro.html.vue")),
   // path: /posts/2024TSMC_CareerHack.html
   "v-620a6165": defineAsyncComponent(() => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.vue")),
+  // path: /posts/Agent57.html
+  "v-3caeec67": defineAsyncComponent(() => import(/* webpackChunkName: "v-3caeec67" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Agent57.html.vue")),
   // path: /posts/DACS.html
   "v-c0336012": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.vue")),
   // path: /posts/DQN.html
@@ -37,14 +39,16 @@ export const pagesComponents = {
   "v-52d83d62": defineAsyncComponent(() => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.vue")),
   // path: /tag/paper-read/
   "v-1724726c": defineAsyncComponent(() => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.vue")),
+  // path: /tag/reinforcement-learning/
+  "v-7f7459b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.vue")),
+  // path: /tag/icml/
+  "v-28948988": defineAsyncComponent(() => import(/* webpackChunkName: "v-28948988" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/icml/index.html.vue")),
   // path: /tag/domain-adaption/
   "v-65da17ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-65da17ce" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/domain-adaption/index.html.vue")),
   // path: /tag/computer-vision/
   "v-cc78423a": defineAsyncComponent(() => import(/* webpackChunkName: "v-cc78423a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/computer-vision/index.html.vue")),
   // path: /tag/wacv/
   "v-2958c584": defineAsyncComponent(() => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.vue")),
-  // path: /tag/reinforcement-learning/
-  "v-7f7459b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.vue")),
   // path: /tag/neurips/
   "v-468b3b36": defineAsyncComponent(() => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.vue")),
   // path: /tag/iclr/

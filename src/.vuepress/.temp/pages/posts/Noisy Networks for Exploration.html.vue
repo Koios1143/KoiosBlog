@@ -1,7 +1,7 @@
 <template><div><h1 id="noisy-networks-for-exploration" tabindex="-1"><a class="header-anchor" href="#noisy-networks-for-exploration" aria-hidden="true">#</a> Noisy Networks for Exploration</h1>
 <h2 id="basic-information" tabindex="-1"><a class="header-anchor" href="#basic-information" aria-hidden="true">#</a> Basic Information</h2>
 <ul>
-<li>ICLR 2018</li>
+<li>2018 ICLR</li>
 <li>Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, et al. @ Google Deepmind</li>
 </ul>
 <h2 id="問題描述" tabindex="-1"><a class="header-anchor" href="#問題描述" aria-hidden="true">#</a> 問題描述</h2>

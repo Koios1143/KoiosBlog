@@ -12,7 +12,7 @@ tag:
 
 ## Basic Information
 
-- ICLR 2018
+- 2018 ICLR
 - Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, et al. @ Google Deepmind
 
 ## 問題描述

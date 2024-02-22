@@ -5,6 +5,8 @@ export const pagesData = {
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"/root/blog_v3/src/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
   // path: /posts/2024TSMC_CareerHack.html
   "v-620a6165": () => import(/* webpackChunkName: "v-620a6165" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/2024TSMC_CareerHack.html.js").then(({ data }) => data),
+  // path: /posts/Agent57.html
+  "v-3caeec67": () => import(/* webpackChunkName: "v-3caeec67" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Agent57.html.js").then(({ data }) => data),
   // path: /posts/DACS.html
   "v-c0336012": () => import(/* webpackChunkName: "v-c0336012" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DACS.html.js").then(({ data }) => data),
   // path: /posts/DQN.html
@@ -35,14 +37,16 @@ export const pagesData = {
   "v-52d83d62": () => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.js").then(({ data }) => data),
   // path: /tag/paper-read/
   "v-1724726c": () => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.js").then(({ data }) => data),
+  // path: /tag/reinforcement-learning/
+  "v-7f7459b2": () => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.js").then(({ data }) => data),
+  // path: /tag/icml/
+  "v-28948988": () => import(/* webpackChunkName: "v-28948988" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/icml/index.html.js").then(({ data }) => data),
   // path: /tag/domain-adaption/
   "v-65da17ce": () => import(/* webpackChunkName: "v-65da17ce" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/domain-adaption/index.html.js").then(({ data }) => data),
   // path: /tag/computer-vision/
   "v-cc78423a": () => import(/* webpackChunkName: "v-cc78423a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/computer-vision/index.html.js").then(({ data }) => data),
   // path: /tag/wacv/
   "v-2958c584": () => import(/* webpackChunkName: "v-2958c584" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/wacv/index.html.js").then(({ data }) => data),
-  // path: /tag/reinforcement-learning/
-  "v-7f7459b2": () => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.js").then(({ data }) => data),
   // path: /tag/neurips/
   "v-468b3b36": () => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.js").then(({ data }) => data),
   // path: /tag/iclr/

@@ -82,7 +82,7 @@ e_t = (s_t, a_t, r_t, s_{t+1})
 </div>
 <p>在經過 experience replay 之後，agent 會透過 <span v-pre class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy 去選擇 action。</p>
 <p>實作上 experience 只會儲存最後 <span v-pre class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi></mrow><annotation encoding="application/x-tex">N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span> 筆，並且 history 當中的 frames 只會取出最後 4 個，拿出來做一些 preprocess <span v-pre class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϕ</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">\phi(s)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">ϕ</span><span class="mopen">(</span><span class="mord mathnormal">s</span><span class="mclose">)</span></span></span></span> 之後作為實際上儲存進 experience 的 state。</p>
-<figure><img src="https://hackmd.io/_uploads/ByI04Xmop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
+<figure><img src="/DQN/ByI04Xmop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <blockquote>
 <p>Image from <a href="https://arxiv.org/abs/1312.5602" target="_blank" rel="noopener noreferrer">Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)<ExternalLinkIcon/></a></p>
 </blockquote>
@@ -96,7 +96,7 @@ e_t = (s_t, a_t, r_t, s_{t+1})
 <p>在 Deep Learning 當中如果要評估一個 Network 的好壞，可以單純透過觀察模型在 validation set 上的 performance 即可，但是在 RL 當中並沒有 validation set，因此評估一個 agent 的好壞就相對困難。</p>
 <p>過去會透過多次遊戲中 agent 獲得的 reward 平均去評估，也就是說理想上每經過一輪更新，模型能夠得到的 reward 應該要慢慢變大。不過作者發現在他們的模型得出來的結果往往會是很不穩定的。作者推測是因為權重即便只有小的變化也會對 policy distribution 有大的影響，導致接下來會經過的 state 就很不相同。</p>
 <p>因此作者改成 Q 的平均去評估，也確實發現會平滑許多。</p>
-<figure><img src="https://hackmd.io/_uploads/HkWFgVmop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
+<figure><img src="/DQN/HkWFgVmop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <blockquote>
 <p>Image from <a href="https://arxiv.org/abs/1312.5602" target="_blank" rel="noopener noreferrer">Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)<ExternalLinkIcon/></a></p>
 </blockquote>
@@ -129,7 +129,7 @@ e_t = (s_t, a_t, r_t, s_{t+1})
 </li>
 <li>Human</li>
 </ul>
-<figure><img src="https://hackmd.io/_uploads/HyAZWEQop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
+<figure><img src="/DQN/HyAZWEQop.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <blockquote>
 <p>Image from <a href="https://arxiv.org/abs/1312.5602" target="_blank" rel="noopener noreferrer">Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)<ExternalLinkIcon/></a></p>
 </blockquote>

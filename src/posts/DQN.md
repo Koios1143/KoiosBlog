@@ -119,7 +119,7 @@ $$
 
 實作上 experience 只會儲存最後 $N$ 筆，並且 history 當中的 frames 只會取出最後 4 個，拿出來做一些 preprocess $\phi(s)$ 之後作為實際上儲存進 experience 的 state。
 
-![image](https://hackmd.io/_uploads/ByI04Xmop.png)
+![image](/DQN/ByI04Xmop.png)
 
 > Image from [Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)](https://arxiv.org/abs/1312.5602)
 
@@ -143,7 +143,7 @@ $$
 
 因此作者改成 Q 的平均去評估，也確實發現會平滑許多。
 
-![image](https://hackmd.io/_uploads/HkWFgVmop.png)
+![image](/DQN/HkWFgVmop.png)
 > Image from [Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)](https://arxiv.org/abs/1312.5602)
 
 ### 比較基準
@@ -163,7 +163,7 @@ $$
     - 事先處理好了 8 color channel representation
 - Human
 
-![image](https://hackmd.io/_uploads/HyAZWEQop.png)
+![image](/DQN/HyAZWEQop.png)
 > Image from [Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. (2015)](https://arxiv.org/abs/1312.5602)
 
 最後得出來的結果，DQN 在幾乎所有的遊戲當中都 outperform 所有的算法，證明了 DQN 的成功。
