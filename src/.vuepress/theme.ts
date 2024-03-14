@@ -69,6 +69,10 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
+    comment: {
+      provider: "Waline",
+      serverURL: "https://vercel-kg4vjm4br-koios1143s-projects.vercel.app/", // your serverURL
+    },
     
     components: {
       components: ["Badge", "VPCard"],

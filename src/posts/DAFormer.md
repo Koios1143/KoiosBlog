@@ -7,7 +7,6 @@ tag:
   - Domain Adaption
   - Computer Vision
   - CVPR
-author: Koios
 ---
 
 # DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation

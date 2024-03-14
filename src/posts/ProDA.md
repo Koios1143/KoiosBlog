@@ -7,7 +7,6 @@ tag:
   - Domain Adaption
   - Computer Vision
   - CVPR
-author: Koios
 ---
 
 # Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation
