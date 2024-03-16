@@ -13,6 +13,8 @@ export const pagesData = {
   "v-6fdb6976": () => import(/* webpackChunkName: "v-6fdb6976" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DAFormer.html.js").then(({ data }) => data),
   // path: /posts/DQN.html
   "v-32d63a0d": () => import(/* webpackChunkName: "v-32d63a0d" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DQN.html.js").then(({ data }) => data),
+  // path: /posts/HRDA.html
+  "v-25c9f246": () => import(/* webpackChunkName: "v-25c9f246" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/HRDA.html.js").then(({ data }) => data),
   // path: /posts/Noisy%20Networks%20for%20Exploration.html
   "v-5b18c8c4": () => import(/* webpackChunkName: "v-5b18c8c4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Noisy Networks for Exploration.html.js").then(({ data }) => data),
   // path: /posts/ProDA.html
@@ -55,6 +57,8 @@ export const pagesData = {
   "v-2848ab8c": () => import(/* webpackChunkName: "v-2848ab8c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/cvpr/index.html.js").then(({ data }) => data),
   // path: /tag/neurips/
   "v-468b3b36": () => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.js").then(({ data }) => data),
+  // path: /tag/eccv/
+  "v-285c0730": () => import(/* webpackChunkName: "v-285c0730" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/eccv/index.html.js").then(({ data }) => data),
   // path: /tag/iclr/
   "v-28948681": () => import(/* webpackChunkName: "v-28948681" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/iclr/index.html.js").then(({ data }) => data),
 }
