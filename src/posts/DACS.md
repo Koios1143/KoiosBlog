@@ -4,7 +4,7 @@ category:
   - Note
 tag:
   - Paper Read
-  - Domain Adaption
+  - Domain Adaptation
   - Computer Vision
   - WACV
 ---

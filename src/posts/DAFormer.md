@@ -4,7 +4,7 @@ category:
   - Note
 tag:
   - Paper Read
-  - Domain Adaption
+  - Domain Adaptation
   - Computer Vision
   - CVPR
 ---
@@ -125,7 +125,7 @@ $$
 
 可以發現到 SegFormer 的表現都比起其他架構來得好許多，並且有趣的是 DeepLabV3+ 並沒有得到比 DeepLabV2 更好的表現。
 
-:::spoiler 更多關於模型選擇的實驗
+:::details 更多關於模型選擇的實驗
 
 由於 backbone 實際上包含了 Encoder 以及 Decoder 兩個部分，作者進一步去分析究竟是哪一個部分使最後得到好的結果。
 

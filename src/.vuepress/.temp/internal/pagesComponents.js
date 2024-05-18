@@ -15,10 +15,14 @@ export const pagesComponents = {
   "v-6fdb6976": defineAsyncComponent(() => import(/* webpackChunkName: "v-6fdb6976" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DAFormer.html.vue")),
   // path: /posts/DQN.html
   "v-32d63a0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-32d63a0d" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/DQN.html.vue")),
+  // path: /posts/Dropout.html
+  "v-073f61cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-073f61cf" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Dropout.html.vue")),
   // path: /posts/HRDA.html
   "v-25c9f246": defineAsyncComponent(() => import(/* webpackChunkName: "v-25c9f246" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/HRDA.html.vue")),
   // path: /posts/Noisy%20Networks%20for%20Exploration.html
   "v-5b18c8c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b18c8c4" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Noisy Networks for Exploration.html.vue")),
+  // path: /posts/PiPa.html
+  "v-d4413c4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-d4413c4c" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/PiPa.html.vue")),
   // path: /posts/ProDA.html
   "v-0fd9e004": defineAsyncComponent(() => import(/* webpackChunkName: "v-0fd9e004" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/ProDA.html.vue")),
   // path: /404.html
@@ -49,8 +53,8 @@ export const pagesComponents = {
   "v-7f7459b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f7459b2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/reinforcement-learning/index.html.vue")),
   // path: /tag/icml/
   "v-28948988": defineAsyncComponent(() => import(/* webpackChunkName: "v-28948988" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/icml/index.html.vue")),
-  // path: /tag/domain-adaption/
-  "v-65da17ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-65da17ce" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/domain-adaption/index.html.vue")),
+  // path: /tag/domain-adaptation/
+  "v-4a51c4c1": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a51c4c1" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/domain-adaptation/index.html.vue")),
   // path: /tag/computer-vision/
   "v-cc78423a": defineAsyncComponent(() => import(/* webpackChunkName: "v-cc78423a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/computer-vision/index.html.vue")),
   // path: /tag/wacv/
@@ -59,8 +63,14 @@ export const pagesComponents = {
   "v-2848ab8c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2848ab8c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/cvpr/index.html.vue")),
   // path: /tag/neurips/
   "v-468b3b36": defineAsyncComponent(() => import(/* webpackChunkName: "v-468b3b36" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/neurips/index.html.vue")),
+  // path: /tag/regularization/
+  "v-2554e3d9": defineAsyncComponent(() => import(/* webpackChunkName: "v-2554e3d9" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/regularization/index.html.vue")),
+  // path: /tag/jmlr/
+  "v-28a729b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-28a729b8" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/jmlr/index.html.vue")),
   // path: /tag/eccv/
   "v-285c0730": defineAsyncComponent(() => import(/* webpackChunkName: "v-285c0730" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/eccv/index.html.vue")),
   // path: /tag/iclr/
   "v-28948681": defineAsyncComponent(() => import(/* webpackChunkName: "v-28948681" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/iclr/index.html.vue")),
+  // path: /tag/acm-multimedia/
+  "v-0f313cf4": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f313cf4" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/acm-multimedia/index.html.vue")),
 }

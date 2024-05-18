@@ -92,7 +92,7 @@ q_T^{(i)} = \frac{\sum_{j=1}^{H \times W}{\left[ \max_{c&#x27;}{h_{\phi}(x_T^{(i
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord"><span class="mord mathrm">Rel</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.0463em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3603em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">Oracle</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">UDA</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
 </blockquote>
 <p>可以發現到 SegFormer 的表現都比起其他架構來得好許多，並且有趣的是 DeepLabV3+ 並沒有得到比 DeepLabV2 更好的表現。</p>
-<p>:::spoiler 更多關於模型選擇的實驗</p>
+<details class="hint-container details"><summary>更多關於模型選擇的實驗</summary>
 <p>由於 backbone 實際上包含了 Encoder 以及 Decoder 兩個部分，作者進一步去分析究竟是哪一個部分使最後得到好的結果。</p>
 <center>
 <img src="/DAFormer/BJhmNmjpT.png" width=400>
@@ -122,7 +122,7 @@ q_T^{(i)} = \frac{\sum_{j=1}^{H \times W}{\left[ \max_{c&#x27;}{h_{\phi}(x_T^{(i
 <blockquote>
 <p>中文敘述參考 <a href="https://yukai880723.medium.com/%E8%AB%96%E6%96%87%E7%AD%86%E8%A8%98-daformer-improving-network-architectures-and-training-strategies-for-domain-adaptive-semantic-17351cbed578" target="_blank" rel="noopener noreferrer">[論文筆記] DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation<ExternalLinkIcon/></a></p>
 </blockquote>
-<p>:::</p>
+</details>
 <p>於是，根據實驗的結果我們選擇使用 SegFormer 做為新的 backbone。</p>
 <p>不過過去使用 Transformer based backbone 解決 semantic segmentation 通常會有個通病是在 decoder 的部分只能取得 local information。於是作者嘗試修改 decoder 的部分，把 encoder 給出不同 level 的 feature maps 處理成相同 channels 數量以及大小，再使用不同的 dilation rates 去處理。如下圖所示。</p>
 <center>

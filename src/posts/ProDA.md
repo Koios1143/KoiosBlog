@@ -4,7 +4,7 @@ category:
   - Note
 tag:
   - Paper Read
-  - Domain Adaption
+  - Domain Adaptation
   - Computer Vision
   - CVPR
 ---
@@ -94,7 +94,7 @@ $$
 - $w_t^{(i, k)}$ 就是上述的 weight
 - $p_{t, 0}^{(i, k)}$ 與過去的 soft pseudo label $p_{t,}^{(i, k)}$ 稍有不同，整個訓練過程中都會固定住
 
-:::success
+:::tip
 跟 Clustering 頗類似，每個 cluster 的中心點就如同這裡的 prototype，距離 cluster A 中心點越近，模型就越相信他是屬於 cluster A。
 
 我們會隨著訓練過程慢慢調整 prototype，讓他越來越貼合真實的狀況。
@@ -158,7 +158,7 @@ $$
 - $\alpha = 0.1$
 - $\beta = 1$
 
-:::success
+:::tip
 改成透過 prototype 去調整 pseudo label 能夠帶來許多的好處
 - 對 outlier 比較不敏感
 - 每個 class 都是平等的，較不會因為 class 的不平衡導致預測錯誤
@@ -194,7 +194,7 @@ $$
 ![ProDA](/ProDA/HJStbjVTT.png)
 
 
-:::success
+:::tip
 如此一來，就能夠迫使模型對於這些略有不同的 feature 具有相同的 pseudo label，使得 target domain features 更加密集。
 :::
 

@@ -1,1 +1,1 @@
-export const sidebarData = {"/posts/":["2024TSMC_CareerHack","Agent57","DACS","DAFormer","HRDA","Noisy Networks for Exploration","DQN","ProDA"]};
+export const sidebarData = {"/posts/":["2024TSMC_CareerHack","Agent57","DACS","DAFormer","Dropout","HRDA","Noisy Networks for Exploration","PiPa","DQN","ProDA"]};
