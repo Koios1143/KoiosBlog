@@ -8,7 +8,7 @@ tag:
   - LLM
 ---
 
-# Agent Planning withWorld Knowledge Model
+# Agent Planning with World Knowledge Model
 
 ## Basic Information
 
@@ -249,7 +249,7 @@ $$
 因此定義新的 Dataset $\mathcal{D}'$ 如下
 
 $$
-\mathcal{D}' = \{ (u, \kappa, \tau_w')^{(i)} \}_{i=1}^{\mathcal{D}}
+\mathcal{D}' = \{ (u, \kappa, \tau_w')^{(i)} \}_{i=1}^{\mathcal{|D'|}}
 $$
 
 - $\tau_w' = (a_0, o_0, s_0, \dots, a_n, o_n, s_n)$
@@ -303,7 +303,7 @@ $$
 
 ***Step 3：WKM 產出 $s_t$***
 
-接下來 agent 就會開始規劃。令 task $u$ 當中所有合法的 action $\mathcal{A}_u \subseteq \mathcal{A}$ 為 $\left( \alpha_u^{(1)}, \alpha_u^{(2)}, \dots, \alpha_u^{(|\mathcal{A}_u|)} \right)$。在時間 $t \leq 0$ 時考慮下一個 action 之前我們需要去考慮 local state knowledge $s_t$。
+接下來 agent 就會開始規劃。令 task $u$ 當中所有合法的 action $\mathcal{A}_u \subseteq \mathcal{A}$ 為 $\left( \alpha_u^{(1)}, \alpha_u^{(2)}, \dots, \alpha_u^{(|\mathcal{A}_u|)} \right)$。在時間 $t \geq 0$ 時考慮下一個 action 之前我們需要去考慮 local state knowledge $s_t$。
 
 $$
 \begin{align*}
