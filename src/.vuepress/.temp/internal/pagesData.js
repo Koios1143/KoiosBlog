@@ -25,6 +25,8 @@ export const pagesData = {
   "v-0fd9e004": () => import(/* webpackChunkName: "v-0fd9e004" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/ProDA.html.js").then(({ data }) => data),
   // path: /posts/Transformer.html
   "v-ed4def16": () => import(/* webpackChunkName: "v-ed4def16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Transformer.html.js").then(({ data }) => data),
+  // path: /posts/Tsukuba%20week01.html
+  "v-3501ffcb": () => import(/* webpackChunkName: "v-3501ffcb" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week01.html.js").then(({ data }) => data),
   // path: /posts/WKM.html
   "v-ad1b5b16": () => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.js").then(({ data }) => data),
   // path: /404.html
@@ -49,6 +51,8 @@ export const pagesData = {
   "v-58706565": () => import(/* webpackChunkName: "v-58706565" */"/root/blog_v3/src/.vuepress/.temp/pages/category/note/index.html.js").then(({ data }) => data),
   // path: /tag/careerhack/
   "v-52d83d62": () => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.js").then(({ data }) => data),
+  // path: /category/diary/
+  "v-b7a24a38": () => import(/* webpackChunkName: "v-b7a24a38" */"/root/blog_v3/src/.vuepress/.temp/pages/category/diary/index.html.js").then(({ data }) => data),
   // path: /tag/paper-read/
   "v-1724726c": () => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.js").then(({ data }) => data),
   // path: /tag/reinforcement-learning/
@@ -77,6 +81,12 @@ export const pagesData = {
   "v-0f313cf4": () => import(/* webpackChunkName: "v-0f313cf4" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/acm-multimedia/index.html.js").then(({ data }) => data),
   // path: /tag/nlp/
   "v-b30a616a": () => import(/* webpackChunkName: "v-b30a616a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/nlp/index.html.js").then(({ data }) => data),
+  // path: /tag/diary/
+  "v-3c78b6cc": () => import(/* webpackChunkName: "v-3c78b6cc" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/diary/index.html.js").then(({ data }) => data),
+  // path: /tag/university-of-tsukuba/
+  "v-26af5756": () => import(/* webpackChunkName: "v-26af5756" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/university-of-tsukuba/index.html.js").then(({ data }) => data),
+  // path: /tag/exchange-program/
+  "v-1791fbf2": () => import(/* webpackChunkName: "v-1791fbf2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/exchange-program/index.html.js").then(({ data }) => data),
   // path: /tag/llm/
   "v-b30c33a0": () => import(/* webpackChunkName: "v-b30c33a0" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/llm/index.html.js").then(({ data }) => data),
 }

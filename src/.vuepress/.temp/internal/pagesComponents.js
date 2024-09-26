@@ -27,6 +27,8 @@ export const pagesComponents = {
   "v-0fd9e004": defineAsyncComponent(() => import(/* webpackChunkName: "v-0fd9e004" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/ProDA.html.vue")),
   // path: /posts/Transformer.html
   "v-ed4def16": defineAsyncComponent(() => import(/* webpackChunkName: "v-ed4def16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Transformer.html.vue")),
+  // path: /posts/Tsukuba%20week01.html
+  "v-3501ffcb": defineAsyncComponent(() => import(/* webpackChunkName: "v-3501ffcb" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week01.html.vue")),
   // path: /posts/WKM.html
   "v-ad1b5b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.vue")),
   // path: /404.html
@@ -51,6 +53,8 @@ export const pagesComponents = {
   "v-58706565": defineAsyncComponent(() => import(/* webpackChunkName: "v-58706565" */"/root/blog_v3/src/.vuepress/.temp/pages/category/note/index.html.vue")),
   // path: /tag/careerhack/
   "v-52d83d62": defineAsyncComponent(() => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.vue")),
+  // path: /category/diary/
+  "v-b7a24a38": defineAsyncComponent(() => import(/* webpackChunkName: "v-b7a24a38" */"/root/blog_v3/src/.vuepress/.temp/pages/category/diary/index.html.vue")),
   // path: /tag/paper-read/
   "v-1724726c": defineAsyncComponent(() => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.vue")),
   // path: /tag/reinforcement-learning/
@@ -79,6 +83,12 @@ export const pagesComponents = {
   "v-0f313cf4": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f313cf4" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/acm-multimedia/index.html.vue")),
   // path: /tag/nlp/
   "v-b30a616a": defineAsyncComponent(() => import(/* webpackChunkName: "v-b30a616a" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/nlp/index.html.vue")),
+  // path: /tag/diary/
+  "v-3c78b6cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c78b6cc" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/diary/index.html.vue")),
+  // path: /tag/university-of-tsukuba/
+  "v-26af5756": defineAsyncComponent(() => import(/* webpackChunkName: "v-26af5756" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/university-of-tsukuba/index.html.vue")),
+  // path: /tag/exchange-program/
+  "v-1791fbf2": defineAsyncComponent(() => import(/* webpackChunkName: "v-1791fbf2" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/exchange-program/index.html.vue")),
   // path: /tag/llm/
   "v-b30c33a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-b30c33a0" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/llm/index.html.vue")),
 }
