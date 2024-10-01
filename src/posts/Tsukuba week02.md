@@ -193,7 +193,7 @@ tag:
 ![](/Tsukuba_week02/11.jpg "星街すいせいちゃん" =300x)
 
 <VidStack
-  src="/Tsukuba_week02/12.mov"
+  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week02/12.mov"
   title="還有新歌發表 ouo"
 />
 
@@ -235,7 +235,7 @@ tag:
 ![](/Tsukuba_week02/17.jpg "沒想到在超市也可以看到月餅，好奇買了一下是偏甜" =300x)
 
 <VidStack
-  src="/Tsukuba_week02/18.mp4"
+  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week02/18.mp4"
   title="渋谷スカイ"
 />
 

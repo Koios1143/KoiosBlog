@@ -97,7 +97,7 @@
 <p>居然是在路上遇到すいせいちゃん！是可以這樣隨便遇到的嗎w</p>
 <figure><img src="/Tsukuba_week02/11.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>星街すいせいちゃん</figcaption></figure>
 <VidStack
-  src="/Tsukuba_week02/12.mov"
+  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week02/12.mov"
   title="還有新歌發表 ouo"
 />
 <p>回到筑波已經有點晚了。快到宿舍的時候致越發現看得到星星，於是停下來看了一陣子。</p>
@@ -119,7 +119,7 @@
 <figure><img src="/Tsukuba_week02/16.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>某天太餓就買了一堆，但蛋沙拉不好吃</figcaption></figure>
 <figure><img src="/Tsukuba_week02/17.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>沒想到在超市也可以看到月餅，好奇買了一下是偏甜</figcaption></figure>
 <VidStack
-  src="/Tsukuba_week02/18.mp4"
+  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week02/18.mp4"
   title="渋谷スカイ"
 />
 <figure><img src="/Tsukuba_week02/19.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>更多渋谷スカイ</figcaption></figure>
