@@ -3,18 +3,20 @@ import { hasGlobalComponent } from "/root/blog_v3/node_modules/.pnpm/vuepress-sh
 import { h } from "vue";
 
 import { useScriptTag } from "/root/blog_v3/node_modules/.pnpm/@vueuse+core@10.7.2_vue@3.4.15/node_modules/@vueuse/core/index.mjs";
-import FontIcon from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import Badge from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
-import BackToTop from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import FontIcon from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import Badge from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import VidStack from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/VidStack.js";
+import BackToTop from "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-import "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "/root/blog_v3/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.11_artplayer@5.1.7_vidstack@1.12.11_vuepress@2.0.0-rc.0/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
     if(!hasGlobalComponent("FontIcon")) app.component("FontIcon", FontIcon);
     if(!hasGlobalComponent("Badge")) app.component("Badge", Badge);
     if(!hasGlobalComponent("VPCard")) app.component("VPCard", VPCard);
+    if(!hasGlobalComponent("VidStack")) app.component("VidStack", VidStack);
     
   },
   setup: () => {

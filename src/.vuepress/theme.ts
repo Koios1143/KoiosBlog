@@ -75,7 +75,7 @@ export default hopeTheme({
     },
     
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard", "VidStack"],
     },
     copyCode: {
       duration: 0,
