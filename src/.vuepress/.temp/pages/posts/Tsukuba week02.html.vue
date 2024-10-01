@@ -65,6 +65,7 @@
 <VidStack
   src="youtube/EzgE7CbTs3o"
   title="さユり - 航海の唄 / The First Take"
+  poster="https://i.ytimg.com/vi/EzgE7CbTs3o/maxresdefault.jpg"
 />
 <h2 id="タバコ" tabindex="-1"><a class="header-anchor" href="#タバコ" aria-hidden="true">#</a> タバコ</h2>
 <p>還記得在來日本之前那段每週往返新竹和中壢學日文的日子。</p>

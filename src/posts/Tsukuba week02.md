@@ -131,6 +131,7 @@ tag:
 <VidStack
   src="youtube/EzgE7CbTs3o"
   title="さユり - 航海の唄 / The First Take"
+  poster="https://i.ytimg.com/vi/EzgE7CbTs3o/maxresdefault.jpg"
 />
 
 ## タバコ
