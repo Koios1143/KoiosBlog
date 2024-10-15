@@ -33,6 +33,8 @@ export const pagesComponents = {
   "v-36b6d86a": defineAsyncComponent(() => import(/* webpackChunkName: "v-36b6d86a" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week02.html.vue")),
   // path: /posts/Tsukuba%20week03.html
   "v-386bb109": defineAsyncComponent(() => import(/* webpackChunkName: "v-386bb109" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week03.html.vue")),
+  // path: /posts/Tsukuba%20week04.html
+  "v-3a2089a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a2089a8" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week04.html.vue")),
   // path: /posts/WKM.html
   "v-ad1b5b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.vue")),
   // path: /404.html
@@ -57,8 +59,14 @@ export const pagesComponents = {
   "v-58706565": defineAsyncComponent(() => import(/* webpackChunkName: "v-58706565" */"/root/blog_v3/src/.vuepress/.temp/pages/category/note/index.html.vue")),
   // path: /tag/careerhack/
   "v-52d83d62": defineAsyncComponent(() => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.vue")),
+  // path: /category/translate/
+  "v-eb1d9a8e": defineAsyncComponent(() => import(/* webpackChunkName: "v-eb1d9a8e" */"/root/blog_v3/src/.vuepress/.temp/pages/category/translate/index.html.vue")),
+  // path: /tag/translate/
+  "v-0f039d22": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f039d22" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/translate/index.html.vue")),
   // path: /category/diary/
   "v-b7a24a38": defineAsyncComponent(() => import(/* webpackChunkName: "v-b7a24a38" */"/root/blog_v3/src/.vuepress/.temp/pages/category/diary/index.html.vue")),
+  // path: /tag/mixture-of-experts/
+  "v-2fba3271": defineAsyncComponent(() => import(/* webpackChunkName: "v-2fba3271" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/mixture-of-experts/index.html.vue")),
   // path: /tag/paper-read/
   "v-1724726c": defineAsyncComponent(() => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.vue")),
   // path: /tag/reinforcement-learning/

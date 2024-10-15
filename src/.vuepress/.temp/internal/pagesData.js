@@ -31,6 +31,8 @@ export const pagesData = {
   "v-36b6d86a": () => import(/* webpackChunkName: "v-36b6d86a" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week02.html.js").then(({ data }) => data),
   // path: /posts/Tsukuba%20week03.html
   "v-386bb109": () => import(/* webpackChunkName: "v-386bb109" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week03.html.js").then(({ data }) => data),
+  // path: /posts/Tsukuba%20week04.html
+  "v-3a2089a8": () => import(/* webpackChunkName: "v-3a2089a8" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week04.html.js").then(({ data }) => data),
   // path: /posts/WKM.html
   "v-ad1b5b16": () => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.js").then(({ data }) => data),
   // path: /404.html
@@ -55,8 +57,14 @@ export const pagesData = {
   "v-58706565": () => import(/* webpackChunkName: "v-58706565" */"/root/blog_v3/src/.vuepress/.temp/pages/category/note/index.html.js").then(({ data }) => data),
   // path: /tag/careerhack/
   "v-52d83d62": () => import(/* webpackChunkName: "v-52d83d62" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/careerhack/index.html.js").then(({ data }) => data),
+  // path: /category/translate/
+  "v-eb1d9a8e": () => import(/* webpackChunkName: "v-eb1d9a8e" */"/root/blog_v3/src/.vuepress/.temp/pages/category/translate/index.html.js").then(({ data }) => data),
+  // path: /tag/translate/
+  "v-0f039d22": () => import(/* webpackChunkName: "v-0f039d22" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/translate/index.html.js").then(({ data }) => data),
   // path: /category/diary/
   "v-b7a24a38": () => import(/* webpackChunkName: "v-b7a24a38" */"/root/blog_v3/src/.vuepress/.temp/pages/category/diary/index.html.js").then(({ data }) => data),
+  // path: /tag/mixture-of-experts/
+  "v-2fba3271": () => import(/* webpackChunkName: "v-2fba3271" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/mixture-of-experts/index.html.js").then(({ data }) => data),
   // path: /tag/paper-read/
   "v-1724726c": () => import(/* webpackChunkName: "v-1724726c" */"/root/blog_v3/src/.vuepress/.temp/pages/tag/paper-read/index.html.js").then(({ data }) => data),
   // path: /tag/reinforcement-learning/
