@@ -37,6 +37,8 @@ export const pagesData = {
   "v-3bd56247": () => import(/* webpackChunkName: "v-3bd56247" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week05.html.js").then(({ data }) => data),
   // path: /posts/Tsukuba%20week06.html
   "v-3d8a3ae6": () => import(/* webpackChunkName: "v-3d8a3ae6" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week06.html.js").then(({ data }) => data),
+  // path: /posts/Tsukuba%20week07.html
+  "v-3f3f1385": () => import(/* webpackChunkName: "v-3f3f1385" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week07.html.js").then(({ data }) => data),
   // path: /posts/WKM.html
   "v-ad1b5b16": () => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.js").then(({ data }) => data),
   // path: /404.html

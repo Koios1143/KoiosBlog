@@ -1,0 +1,103 @@
+<template><div><h1 id="筑波大學交換週記-week-07" tabindex="-1"><a class="header-anchor" href="#筑波大學交換週記-week-07" aria-hidden="true">#</a> 筑波大學交換週記 Week 07</h1>
+<h2 id="zutomayo" tabindex="-1"><a class="header-anchor" href="#zutomayo" aria-hidden="true">#</a> ZUTOMAYO!</h2>
+<p>來到日本之後第一個看到的演唱會訊息就是 ずっと真夜中でいいのに，明年有許多的演出可以期待。</p>
+<p>為了要提早搶到票，買了一年的 Premium 會員資格，覺得也不會太貴就直接下手了。</p>
+<p>除了訂了演唱會門票以外，就是會被各種周邊燒到w</p>
+<p>然後就不小心買了新的專輯，是初回限定盤。</p>
+<p>從下了訂單之後就在思考，既然買了專輯就會想要聽，但是現在手邊也沒有 CD 撥放器。</p>
+<p>在 Amazon 和 メルカリ 上都逛了一下，後來選定了其中一個附音響的類型，而且 CD 讀取的部分是透明的，能看到 CD 轉動的樣子也覺得相當有趣。</p>
+<figure><img src="/Tsukuba_week07/01.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>CD 撥放器！</figcaption></figure>
+<p>後續大概就是一個大失血的故事。</p>
+<p>買了專輯 -&gt; 那應該要有撥放器 -&gt; 買了撥放器 -&gt; 那好像可以買更多專輯 -&gt; 買買買w</p>
+<p>不過後續買的專輯都是在逛 Bookoff 的期間看到的二手品，所以價格也相對低不少。但當時看到了不少的初回限定盤(俗稱的魔導書)。也另外買了幾張。</p>
+<figure><img src="/Tsukuba_week07/13.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>專輯！！！</figcaption></figure>
+<figure><img src="/Tsukuba_week07/16.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>ZUTOMAYO 的專輯</figcaption></figure>
+<figure><img src="/Tsukuba_week07/14.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>專輯裡面藏了一張貼紙 ouo</figcaption></figure>
+<p>最有趣的大概是入手 ヨルシカ 的 盗作 的故事w</p>
+<p>買回家之後打開才發現裡面放的是 LiSA 的單曲 CD - 炎</p>
+<figure><img src="/Tsukuba_week07/02.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>欸不是，還真的盗作</figcaption></figure>
+<blockquote>
+<p>那一片二手在 Bookoff 才賣不到 900 日幣，盗作一片要 1800 日幣上下wwwww</p>
+</blockquote>
+<p>雖然買到這樣內容不符的商品會覺得很荒謬，但當下更多的是覺得太有趣，因為就正好被放在盗作裡面XD</p>
+<p>後續回到 Bookoff 去退貨，也得到了 300 日幣的禮券。</p>
+<figure><img src="/Tsukuba_week07/03.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>禮券們 ouob</figcaption></figure>
+<p>為了安置這些專輯和 CD Player，也整理了一下書桌附近的空間，現在的感覺還蠻舒適。</p>
+<figure><img src="/Tsukuba_week07/04.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>多了一個可以放專輯和 CD Player 的空間，還蠻喜歡的</figcaption></figure>
+<p>題外話。這邊有些買的東西是網購。在這邊大多情況下如果包裹放不進信箱裡面，又沒有指定要面對面交貨的話，外送員會直接把貨物放在玄關。之前有聽過其他台灣來的同學抱怨自己買的衣服被偷走，也有看到在玄關附近有一些告示在提醒大家不要拿別人的包裹。</p>
+<p>為了避免自己買的這些酷酷的東西會被偷走，也是特地要求要面對面交貨，也選了自己會在宿舍的時間。不過兩次他都沒有對我的身分做核可，這讓我頗擔心 qwq</p>
+<h2 id="學園祭-雙峰祭" tabindex="-1"><a class="header-anchor" href="#學園祭-雙峰祭" aria-hidden="true">#</a> 學園祭 -  雙峰祭</h2>
+<p>在這周周末是日本的文化の日，許多的學校包含各個大學都會在這個時間舉辦文化季。而筑波的文化季又被稱為雙峰祭，據說是因為附近的筑波山有兩個山峰。</p>
+<blockquote>
+<p>欸不過我到現在還沒去過筑波山w</p>
+</blockquote>
+<p>第一天因為下雨又超冷所以就沒去參加，但第二天跟第三天的天氣相當好。我們一天在筑波，一天跑去東科大(前東工大)跟冠霆一起逛校園。</p>
+<p>與在台灣的大學校慶很不一樣的是，可以感受到大家投注許多的心力在這個活動當中，並且也樂於參與。</p>
+<p>各個社團、學會會出來擺攤，有些單純賣一些吃的，有些會宣傳自己社團的內容。此外也少不了各種的表演活動。</p>
+<p>從平時上課的 2A 一路到體育館，沿路上都擺滿了攤位。在各個建築物當中也有各種靜態動態的活動展演。主舞台有許多的藝文表演，甚至有兩台巨大的攝影鏡頭在 LIVE 直播。</p>
+<figure><img src="/Tsukuba_week07/05.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>在一些地方可以看到兩邊插著雙峰季的旗幟</figcaption></figure>
+<figure><img src="/Tsukuba_week07/06.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>一路到了體育館左右才到了攤位的盡頭</figcaption></figure>
+<p>今年特別多賣吃的攤位，各個地方都可以聽到大聲吆喝宣傳自己攤位的美食。</p>
+<figure><img src="/Tsukuba_week07/07.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>居然有在賣水餃。這大概是在日本吃到最好吃的，但皮很厚，更像是湯圓w</figcaption></figure>
+<figure><img src="/Tsukuba_week07/08.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>甜甜的薯條有點怪</figcaption></figure>
+<figure><img src="/Tsukuba_week07/09.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>排隊排了可能有 40 分鐘，還不錯吃</figcaption></figure>
+<figure><img src="/Tsukuba_week07/10.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>來日本第一次喝到泰式奶茶</figcaption></figure>
+<p>有個社團是在做陶藝的，現場擺了好幾大桌子的作品販賣，從實用層面上的碗、杯子，到比較偏藝術層面的作品都有，正好有台灣的朋友介紹過去，否則也許不太會探索到。</p>
+<p>在隔壁是一個做季刊的社團，無論是在選材、排版設計、文字內容都讓我覺得完成度超級令人驚艷。在現代許多的文本媒介像是週刊、季刊、雜誌、報紙等等都隨著資訊化而退去潮流。</p>
+<p>還記得上次在春日校區看到有個區域放著筑波大學發行的報紙，裡面已經在探討這份報紙對於筑波的學生以及教職人員來說有怎樣的功能，存在的意義是什麼。我看到的是一個準備消失的媒介。</p>
+<p>但是在這個社團推出的季刊上，卻沒有這樣的影子。而是透過令人為之一亮的設計以及內容的選定賦予並說服了它存在的意義。是一個還在成長的載體。</p>
+<p>有這個機會看到這樣的社團存在十分難得。</p>
+<p>在 schedule 上有看到某個叫做「つくば•ざ•ロック」的演出，看起來是想要模仿孤獨搖滾，但裡面的內容只放了一個超怪的手寫字。懷著各種好奇到了現場去看表演。</p>
+<p>他們確實是模仿孤獨搖滾成立的，演唱的內容也都是其中的歌曲。</p>
+<p>雖然說歌唱和音量的調整沒有到很理想，不過居然連小波奇的滑音跟跳下舞台都模仿到，只能說太有趣w</p>
+<figure><img src="/Tsukuba_week07/12.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>今年雙峰季的吉祥物</figcaption></figure>
+<p>整體來說，我覺得這次雙峰祭的體驗讓我感受到這間學校相當熱情的一面，「原來大學的慶典也可以那麼盛大呀」的這種感覺我覺得會放在我的心中許久。</p>
+<figure><img src="/Tsukuba_week07/11.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>晚上的星空</figcaption></figure>
+<figure><img src="/Tsukuba_week07/15.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>晚餐去吃中華料理，還蠻不錯，但個人喜歡比較不油的炒飯</figcaption></figure>
+<h2 id="文化季-工大祭" tabindex="-1"><a class="header-anchor" href="#文化季-工大祭" aria-hidden="true">#</a> 文化季 - 工大祭</h2>
+<p>與筑波包含了各種文理科系的學校不同，東科大正如其名包含了各種裡科的科系，並且在日本也絕對是數一數二強的學校，又位在都市當中。因此從活動的主視覺設計就可以看到許多科技與現代的元素。</p>
+<figure><img src="/Tsukuba_week07/17.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>東科大的主視覺設計</figcaption></figure>
+<figure><img src="/Tsukuba_week07/18.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>更多主視覺</figcaption></figure>
+<blockquote>
+<p>順帶一提，筑波在日本似乎算是教育相關科系最頂尖的大學</p>
+</blockquote>
+<p>相較於雙峰祭，我們在工大祭當中逛了比較多社團的靜態展。</p>
+<p>像是東科大的資訊社團 trap，裡面包含了組別橫跨了許多的領域，像是競程、資安、遊戲、美術設計、音樂設計、人工智慧等等，甚至多到我可能沒記完整。也因為這樣的多樣性，在這邊可以看到除了專業的技術之外，也還有各種美術上的支援，讓系統以及遊戲更有魅力。這一點是我在過去高中看過的資訊社群中比較缺乏的部分。想當初美術都是找一個剛好也有美術能力的人，不管高不高，就只能依賴這些人幫忙 carry。</p>
+<p>還有一個摺紙的社團真的超厲害，可以摺出籠、恐龍、蛇等等複雜的物體，並且也具有摺紙獨特的美感，為之一亮。</p>
+<p>今年他們也設計了解謎遊戲，讓你可以在校園各個地方逛的同時可以動腦解謎。我們花了不少的時間在這上面，有些題目太斜咖真的想不到。但因為遊戲的設計上同一個關卡雖然包含很多可以解的任務，但每個都只需要解出 3 題就可以通過，所以也並不會有過高的難度。</p>
+<figure><img src="/Tsukuba_week07/21.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>其中一個謎題</figcaption></figure>
+<p>最後順利一起解出了謎底，也獲得了小獎品。</p>
+<figure><img src="/Tsukuba_week07/22.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>獎品們</figcaption></figure>
+<figure><img src="/Tsukuba_week07/20.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>學餐有開欸</figcaption></figure>
+<p>在主舞台上也還有抽獎活動，有點像是賽馬(?)的感覺。他們規劃了三場的比賽，和 5 名選手。我們要在比賽前先預測他們的排名順序，猜對的就可以領豪華獎品w</p>
+<figure><img src="/Tsukuba_week07/19.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>活動主舞台</figcaption></figure>
+<p>比賽像是看誰吃蕎麥麵吃最多、誰能最快做出質因數分解、在麵粉當中用臉找出糖果之類的。</p>
+<p>質因數分解只能說太東科大了。</p>
+<blockquote>
+<p>欸但他們真的超快，阿我解不出來是不是沒臉說我是清大的(X</p>
+</blockquote>
+<p>我們三個大概是都沒賭中，但看比賽還蠻有趣。</p>
+<p>說到質因數分解，有個教室裡面就是在玩素数大富豪(質數大富翁)</p>
+<p>要進東科大是不是都要會心算質因數分解 + 心理面做埃氏篩法啊(X</p>
+<p>總的來說，我覺得東科大的氛圍跟筑波還是頗不一樣，但同樣的事都能感覺到學生跟學校對於這個活動投入的程度都頗高。</p>
+<p>沒說到的是，地方人士甚至外地的人也會慕名而來，讓學校當中充滿與平常不同的歡樂氣氛。</p>
+<p>另一點是秩序。雖然說也有相當有創意的活動在，但大家都會保有一定程度的秩序而不至於脫序。最小的地方像是在活動場地當中不能有腳踏車進入，這一點他們也做得相當徹底。</p>
+<blockquote>
+<p>比較可惜的是最後一天沒能看到雙峰季的煙火，但看到朋友們發的照片和影片，覺得是相當漂亮。日本人對於煙火也是頗浪漫。</p>
+</blockquote>
+<h2 id="回台灣" tabindex="-1"><a class="header-anchor" href="#回台灣" aria-hidden="true">#</a> 回台灣</h2>
+<p>這段期間大概就是各個研究所的放榜，雖然有部分確定錄取的校系，不過這週還是會回台灣一趟去面試。也趁這個時候多領一些日幣現金出來。之前估算的時候沒想到像是保險或是宿舍費用刷不了 JCB 等等的問題。</p>
+<p>接下來就期待面試順利了。</p>
+<figure><img src="/Tsukuba_week07/26.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>下次知道要先去訂高速巴士，不然轉乘好累</figcaption></figure>
+<h2 id="後記" tabindex="-1"><a class="header-anchor" href="#後記" aria-hidden="true">#</a> 後記</h2>
+<figure><img src="/Tsukuba_week07/23.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>鮭魚還蠻好吃的。放進電鍋一起蒸超方便</figcaption></figure>
+<figure><img src="/Tsukuba_week07/24.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>難得煮豬肉，比想像中好吃</figcaption></figure>
+<figure><img src="/Tsukuba_week07/25.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>薯條！</figcaption></figure>
+<figure><img src="/Tsukuba_week07/27.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>把剩下的食材拿來組一組 ouob</figcaption></figure>
+<p>正在慢慢蒐集學校的各種雕像</p>
+<figure><img src="/Tsukuba_week07/28.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week07/29.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week07/30.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div></template>
+
+
