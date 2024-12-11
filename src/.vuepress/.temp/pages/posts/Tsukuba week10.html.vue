@@ -86,7 +86,7 @@
 <figure><img src="/Tsukuba_week10/Day01/IMG_8779.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>早晨的東照宮</figcaption></figure>
 <p>請了在那裏的一位叔叔幫忙拍照後，みっこさん很熱情地跟他們打招呼，也知道了他們現在是在等 6:30 的ラジオ体操。</p>
 <p>看著時間也差不多，我們也就一起加入了這個神祕的活動XD</p>
-<figure><img src="/Tsukuba_week10/Day01/03.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>感謝致越記得要拍照www 在對面其實還有一群人，這邊只是一部分而已。</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/03.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>感謝致越記得要拍照www 在對面其實還有一群人，這邊只是一部分而已。</figcaption></figure>
 <p>覺得很奇妙的是，似乎日本人對於ラジオ体操都很不陌生，而大家之所以會開始在東照宮前面聚集，似乎也都是自然而然。當天到場的人數也是相當地多。</p>
 <p>大家跳完之後就開開心心地解散，真的太有趣。解散期間遇到其他人大家都會彼此打招呼。笑容在我看來也是相當地真誠。在這個地方感受到許多的溫暖，從這些素不相識的人們身上感受到的溫暖。</p>
 <p>可惜這個時間點還沒辦法買御朱印，因此到這裡的行程暫告一段落，決定下午再過來一趟。</p>
@@ -109,7 +109,7 @@
 <p>推薦一下，有機會去仙台的話可以去拜訪看看~~</p>
 </blockquote>
 <p>剛到仙台不到 3 個小時的時間，我們就感受到了各種來自人的熱情和溫暖，以及各種驚喜。我很難得地在旅程當中心情都相當地雀躍，也期待著接下來的各種活動。</p>
-<figure><img src="/Tsukuba_week10/Day01/04.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>和熱情店長在店門口的合照！</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/04.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>和熱情店長在店門口的合照！</figcaption></figure>
 <p>暫時告別熱情的店長後，我們和まりさん會合後，一起前往下一個行程 - KIRIN 啤酒</p>
 <p>個人是不喝酒的，但致越想去看看，所以就安排在了行程裡面。</p>
 <p>日本有許多的見學活動，無論是工廠、企業、公家機關或是小作坊和防災等等，這種見學文化相當興盛。</p>
@@ -117,15 +117,15 @@
 <p>麒麟啤酒在台灣最常看到的就是他們的 slogan 「一番搾り」了吧。據說一般的啤酒會是經過兩次榨取，而他們是使用第一次榨取的麥汁下去製作。</p>
 <p>在導覽的其中一段他們就帶我們試喝了第一次和第二次榨取的麥汁。由於還沒經過發酵，所以裡面是還沒有酒精，當時有試著喝了一下，感覺經過兩次搾取出來的麥汁跟黑麥汁超像。差別應該在甜度不同。</p>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8814.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>經過一次和兩次搾取出來的麥汁</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/05.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>幫忙發酵的我們也在發笑</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/05.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>幫忙發酵的我們也在發笑</figcaption></figure>
 <p>印象中見學的費用是一個人 500 日幣，みっこさん甚至連見學的錢都幫我們出了</p>
 <p>在見學的最後也有讓大家品酒的環節，在進場的時候就會先問好有誰是開車來，會給你一個 Tag 讓後面的工作人員不要分配酒給你。不管是駕駛或是不能(or 不想)喝酒的人，他們也有提供許多的飲料可以選擇。</p>
 <p>大概是前面已經給你一杯大的，後面還會給你三杯小的。</p>
-<figure><img src="/Tsukuba_week10/Day01/06.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>致越很會喝，喝了不少ww</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/07.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>一起跟 みっこさん 和 まりさん 合照~</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/08.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>外面有個超大啤酒電話亭</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/09.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>當然，也會有麒麟</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/10.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>喔對，他們甚至還有餅乾</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/06.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>致越很會喝，喝了不少ww</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/07.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>一起跟 みっこさん 和 まりさん 合照~</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/08.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>外面有個超大啤酒電話亭</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/09.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>當然，也會有麒麟</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/10.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>喔對，他們甚至還有餅乾</figcaption></figure>
 <p>結束了麒麟啤酒的行程後，因為大家都還不餓，也接近下午另一場見學的預約時間，我們就出發前往下一站 - 荒浜小学校</p>
 <p>我想如果說到日本 311，即便是在台灣的大家應該也都不陌生。雖然在事件的時間已經出生了，但在我留下的印象並不多，也許只記得福島核災。隨著後續開始學日文，後續有日文發表和某些刻有提到，才對這個事件有比較多的理解。</p>
 <p>這次來到的這個地方，正是日本 311，或稱東日本大震災，當時被海嘯波擊後所留下的遺跡。現在被用來記錄與傳達當時地震與海嘯對這一個區域造成的影響，希望透過這些慘痛經驗，讓現在還活著的每一個人都能夠有前面的經驗，避免這樣的悲劇再次上演。</p>
@@ -154,7 +154,7 @@
 <p>黑色小旗子標記的是荒浜小学校所在的位置。每一個白旗都是一個曾經存在的建築。往前看過去是海岸。</p>
 <p>經過海嘯的摧殘後，現在看到的這一片住宅、店家等等，幾乎都已經不存在了。</p>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8831.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>現在的這一個區域，基本上已經沒有甚麼住戶。</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/11.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>正在為我們導覽解說的叔叔</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/11.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>正在為我們導覽解說的叔叔</figcaption></figure>
 <p>我覺得最讓我感到難過的是那些被破壞的日常。</p>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8835.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>其中一面黑板，寫著大大的「本当にありがとう。」，也就是「真的相當感謝。」</figcaption></figure>
 <p>在其中一個教室，有一個用來標記重要事情的小黑板。在上面寫著兩個活動。3/14 的「卒業式総練習」和 3/18 的「卒業式」。</p>
@@ -170,8 +170,8 @@
 <figure><img src="/Tsukuba_week10/Day01/IMG_8856.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8881.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>銀杏也相當美麗</figcaption></figure>
 <p>在那裡 みっこさん 幫忙某個陌生人拍完照之後，突然有兩個姊姊走過來，說可以幫我們拍照。</p>
-<figure><img src="/Tsukuba_week10/Day01/12.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>他們特意跑到了上面，說趁現在的陽光照下來很好看</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/13.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>也加碼了一張近的</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/12.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>他們特意跑到了上面，說趁現在的陽光照下來很好看</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/13.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>也加碼了一張近的</figcaption></figure>
 <p>下午的東照宮還是充滿著人情味。</p>
 <p>趁著還有時間，我們也去了台原森林公園。感覺是一個平常放鬆心情可以來走走的地方。</p>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8890.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>從車站眺望整個公園</figcaption></figure>
@@ -180,7 +180,7 @@
 <figure><img src="/Tsukuba_week10/Day01/IMG_8925.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8933.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day01/IMG_8958.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day01/14.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day01/14.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>時間很快地就來到晚上。還記得早上遇到的蕎麥麵店老闆 けんさん 吧。老闆很貼心地找了一間距離我們住宿旅館比較近的餐廳，也約定好了時間。</p>
 <p>けんさん 和他的老婆一起，帶我們去的是一間居酒屋店。居酒屋的老闆據說是秋田縣人，所以在這邊也可以吃到一些秋田的美食。</p>
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6087.06509387931!2d140.87707410357882!3d38.262919289990506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a29d2a08c253f%3A0x8b5af5f9a1e5b236!2z6aOf44G556yR44GE57iBIOOBn-OBi-OChA!5e0!3m2!1sja!2stw!4v1733495247812!5m2!1sja!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
@@ -215,9 +215,9 @@
 <figure><img src="/Tsukuba_week10/Day02/IMG_8982.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day02/IMG_8985.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>動物園裡面也有一些可以近距離跟動物互動的機會，相當難得。在日本這種活動似乎通常都會有整理券要先領，然後再去排隊憑整理券入場。</p>
-<figure><img src="/Tsukuba_week10/Day02/04.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>他會自己貼過來，超可愛</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day02/04.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>他會自己貼過來，超可愛</figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day02/08.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>偷睡覺w</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day02/01.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>最可愛的當然是兔子惹</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day02/01.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>最可愛的當然是兔子惹</figcaption></figure>
 <p>在這邊大概就是各種看可愛動物，然後一方面又在想說他們被關在這可能不是很開心。</p>
 <figure><img src="/Tsukuba_week10/Day02/IMG_8997.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day02/IMG_9003.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>兔子不知道為什麼就是有一種很可愛的感覺</figcaption></figure>
@@ -236,7 +236,7 @@
 <p>Like 第一次過去只能不知道有什麼選項了。</p>
 <p>然後老闆就問了還是要魚排，我想說應該也行。致越也是點定食，但他問了有哪些可以選，然後突然發現也還有豬排的選項。然後我就改豬排了XD</p>
 <p>豬排似乎需要花點時間，老闆很貼心地跟我說大概要等幾分鐘。途中也有小小閒聊了一下，是個有點有趣的老闆。</p>
-<figure><img src="/Tsukuba_week10/Day02/10.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>好耶！吃飯 ouob</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day02/10.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>好耶！吃飯 ouob</figcaption></figure>
 <p>今天晚上的住宿訂的是頗高級的溫泉飯店，下午有個接駁車會帶我們過去飯店。在那之前還有些時間，まりさん 就帶我們到仙台車站附近的購物中心逛逛。</p>
 <figure><img src="/Tsukuba_week10/Day02/IMG_9037.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>去的路上看到這個，只能說太日本www</figcaption></figure>
 <p>日本人可能有點喜歡一餐吃各種碳水化合物吃爆。像是拉麵 + 白飯或是拉麵 + 煎餃，或甚至是三個都。總之，就是會有一堆碳水化合物。</p>
@@ -261,7 +261,7 @@
 <p>在旁邊的 LAWSON 看到仙台方言番付，超有趣XD</p>
 <figure><img src="/Tsukuba_week10/Day02/IMG_9063.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>晚上當然就是去泡溫泉了。不過老實說我對溫泉不大有興趣甚至有些小排斥。但想著也體驗一次看看，所以就跟著過去了。</p>
-<figure><img src="/Tsukuba_week10/Day02/11.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>準備要去泡溫泉的人們。穿浴衣好不習慣。</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day02/11.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>準備要去泡溫泉的人們。穿浴衣好不習慣。</figcaption></figure>
 <p>溫泉雖然是頗舒服的，但果然自己還是不太能在這種環境放鬆下來w</p>
 <p>不過泡了室內的溫泉後我們也試著到露天的溫泉。雖然外面是超級冷的天氣，但泡在溫泉裡面就完全不覺得冷了，有點神奇。</p>
 <p>喝了罐牛奶，回到房間後睡睡覺，期待隔天的行程 ouo</p>
@@ -272,7 +272,7 @@
 <figure><img src="/Tsukuba_week10/Day03/IMG_9068.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>其中一盤早餐</figcaption></figure>
 <p>收拾過行李後，跟 みっこさん 約定的時間也差不多，我們去逛了一下紀念品之後就準備出發。今天有 みっこさん 開車帶著我們一起真的很開心。</p>
 <p>在離開溫泉旅館之後，みっこさん 說附近有一間很有名的店，裡面有賣 おはぎ，想帶我們過去吃吃看，真的超感恩。</p>
-<figure><img src="/Tsukuba_week10/Day03/01.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/01.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>今天的第一個目標是秋保大滝。之前在找仙台的行程的時候有不少大概就是 Google Maps 上滑著滑著覺得還不錯就會放進清單裡面，然後他就可能會變成是要去的點。秋保大滝位置雖然比較偏，但是景色看起來很漂亮。那時候的我覺得應該是不會去到，但沒想到最後能夠成行。</p>
 <p>那天的風很大，應該是比新竹還大的w 尤其當時天起也還蠻冷，風一大就又更冷了。</p>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9086.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>進到秋保大滝的一個入口</figcaption></figure>
@@ -281,7 +281,7 @@
 <figure><img src="/Tsukuba_week10/Day03/IMG_9100.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>這裡的樹都頗高大且密集</figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9107.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9113.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>接下來會沿著右邊看到的這個步道走到瀑布</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day03/02.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>YA!</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/02.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>YA!</figcaption></figure>
 <p>走到了步道之後，我們看到有一個人架了自拍架在跟瀑布合影。我們也詢問他能不能幫我們幾個人拍張照片。</p>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9123.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>然後在倒數的時候聽到了&quot;三&quot;</p>
@@ -289,22 +289,22 @@
 <p>一整個很荒謬，從來沒想到在這裡還會遇到台灣人XD</p>
 <p>對方是獨自來日本東北旅遊 18 天，也來過日本旅遊好幾次。這次特別來到日本東北，其中一站正好就來到了秋保大滝。</p>
 <p>只能說緣分很奇妙w</p>
-<figure><img src="/Tsukuba_week10/Day03/03.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>在瀑布前面的合照</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/03.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>在瀑布前面的合照</figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9143.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9155.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9156.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>據說這個瀑布有 55 公尺高，從底下往上看頗壯觀。也很難得有機會到這種交通比較不方便到的景點，享受著不壅擠的美景。</p>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9170.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>回到秋保大滝入口的西光寺。陽光的角度很喜歡，頗喜歡這張照片。</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day03/09.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>順利買到御朱印</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/09.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>順利買到御朱印</figcaption></figure>
 <p>在去到下一個點的路上正好經過秋保神社，因此也進去看了一下，裡面賣的御朱印相當有特色，而且還有很多很可愛的東西，超讚。</p>
-<figure><img src="/Tsukuba_week10/Day03/10.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/10.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9176.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9178.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="/Tsukuba_week10/Day03/IMG_9174.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day03/07.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>戰利品w</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/07.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>戰利品w</figcaption></figure>
 <p>在這間神社的外面有插了很多的白旗，是來自日本各地的人們到這裡祈求勝利的旗子。我們在這邊有看到像是棒球隊、排球隊、空手道等等體育競賽的團體，也有看到羽生結弦的應援隊，超級酷。</p>
 <p>也經過了一間義式冰淇淋店，我們也享用了一下才繼續出發 &gt;&lt;</p>
-<figure><img src="/Tsukuba_week10/Day03/08.JPEG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>好吃的冰 ouo</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day03/08.jpeg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>好吃的冰 ouo</figcaption></figure>
 <p>有趣的是，裡面有個口味叫做いちじく，然後我們那時候不知道那是什麼，所以就問了老闆 いちじく 是什麼。</p>
 <p>看得出來老闆很困惑XDD 過了一小段時間老闆回答說 いちじく 就是 いちじく XDD</p>
 <p>最後查出來發現是無花果，只能太有趣。如果突然有人問我無花果是甚麼我覺得我也會答不出來XD</p>
@@ -419,7 +419,7 @@
 <p>在旁邊聽大家聊天的時候，也會注意到有時候突然出現的 ～ぺ。之前在方言的課裡面有聽過有這樣的方言存在，但第一次實際聽到還是覺得很有趣。</p>
 <p>另外不知道會吧 えっと 講成 うんと 不知道是不是也是方言。</p>
 <p>我們大概晚上 7 點左右抵達，一路就聊到了 10 點多還沒意識到時間過那麼快。大家也一起開心地合影&gt;&lt;</p>
-<figure><img src="/Tsukuba_week10/Day04/IMG_9382.JPG" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day04/IMG_9382.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>真的很感謝大家的熱情款待，希望接下來有機會也可以讓我們請大家好好吃一頓，也再一起出門玩一玩！</p>
 <figure><img src="/Tsukuba_week10/Day04/IMG_9384.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>也收到了很多的餅乾，超級感謝！</figcaption></figure>
 <p>我想在來日本之前從來不會想像到會有這種機會吧。在設想未來的時候總是會擅自以當下的個性、能力、環境去猜測未來會是甚麼模樣。這些在旅途之中出現的驚喜以及意外，往往才是回顧這段曾經是未來的過去時印象最深刻，同時也是影響在那之後的未來的重要事件吧。</p>
@@ -484,9 +484,9 @@
 <p>正好昨天忘記要送他們的小禮物今天也可以送出了！</p>
 <p>當下真的覺得很幸福，能夠在離開仙台之前再看到這群溫暖可愛的人們。</p>
 <figure><img src="/Tsukuba_week10/Day05/6373.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>YA!</figcaption></figure>
-<figure><img src="/Tsukuba_week10/Day05/IMG_9534.JPG" alt="" width="300" tabindex="0" loading="lazy"><figcaption>趁著上車之前趕快拍照！</figcaption></figure>
+<figure><img src="/Tsukuba_week10/Day05/IMG_9534.jpg" alt="" width="300" tabindex="0" loading="lazy"><figcaption>趁著上車之前趕快拍照！</figcaption></figure>
 <VidStack
-  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week10/Day05/01.MP4"
+  src="https://koios1143.github.io/KoiosBlog/Tsukuba_week10/Day05/01.mp4"
   title="居然還做了牌子！超感動！"
 />
 <p>到了車開始啟動過後，還有一陣子沒緩過來，剛剛發生的事情真的會記得一輩子的。</p>
