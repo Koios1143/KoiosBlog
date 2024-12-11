@@ -45,6 +45,8 @@ export const pagesComponents = {
   "v-40f3ec24": defineAsyncComponent(() => import(/* webpackChunkName: "v-40f3ec24" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week08.html.vue")),
   // path: /posts/Tsukuba%20week09.html
   "v-42a8c4c3": defineAsyncComponent(() => import(/* webpackChunkName: "v-42a8c4c3" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week09.html.vue")),
+  // path: /posts/Tsukuba%20week10.html
+  "v-6833626d": defineAsyncComponent(() => import(/* webpackChunkName: "v-6833626d" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/Tsukuba week10.html.vue")),
   // path: /posts/WKM.html
   "v-ad1b5b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-ad1b5b16" */"/root/blog_v3/src/.vuepress/.temp/pages/posts/WKM.html.vue")),
   // path: /404.html
